@@ -19,7 +19,7 @@
 
 ## 运行截图
 
-![](https://github.com/LovebuildJ/Json2Excel/blob/main/main.png)
+![](https://github.com/LovebuildJ/Json2Excel/blob/main/mian.png)
 
 ![](https://github.com/LovebuildJ/Json2Excel/blob/main/success.png)
 
