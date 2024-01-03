@@ -11,6 +11,8 @@
 1. 有java 8 以上环境的, 建议直接下载jar包使用, 跨平台, windows/mac/linux均可！
 2. 没有java环境，可以下载exe版, 双击使用
 
+点这去下载 https://github.com/LovebuildJ/Json2Excel/releases/tag/v1.0.0
+
 ## 使用
 1. 第一步：属性绑定（就是字段映射表的列头）
 2. 第二步：输入json数据
